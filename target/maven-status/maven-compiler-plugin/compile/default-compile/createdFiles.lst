@@ -1,0 +1,13 @@
+app\entreprise\menuiserieshared\exceptions\AffaireExistanteException.class
+app\entreprise\menuiserieshared\entities\RdvCommercial.class
+app\entreprise\menuiserieshared\entities\RdvPoseur.class
+app\entreprise\menuiserieshared\metier\MetierPoseurLocal.class
+app\entreprise\menuiserieshared\controllers\AffaireBean.class
+app\entreprise\menuiserieshared\entities\AffaireBD.class
+app\entreprise\menuiserieshared\controllers\AffaireBeanLocal.class
+app\entreprise\menuiserieshared\metier\MetierPoseur.class
+app\entreprise\menuiserieshared\exceptions\AffaireInconnueException.class
+app\entreprise\menuiserieshared\entities\Affaire.class
+app\entreprise\menuiserieshared\facades\AbstractFacade.class
+app\entreprise\menuiserieshared\facades\AffaireFacade.class
+app\entreprise\menuiserieshared\facades\AffaireFacadeLocal.class
