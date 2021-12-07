@@ -135,8 +135,5 @@ public class Affaire implements Serializable{
         this.telephone = telephone;
         this.adresseLivraison = adresseLivraison;
     }
-
-    public Affaire() {
-    }
     
 }
